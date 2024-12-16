@@ -1,7 +1,7 @@
 struct Point {
     int x;
     int y;
-}
+};
 
 // Finds squared euclidean distance between two points
 int dist(Point &a, Point &b) {
